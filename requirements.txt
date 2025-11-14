@@ -1,0 +1,12 @@
+langchain==1.0.0
+langgraph
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-huggingface
+langchain-classic
+pypdf
+python-dotenv
+pydantic
+ddgs
